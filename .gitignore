@@ -5,3 +5,5 @@ __pycache__/
 .env
 .env.*
 .vscode/
+smarttrafficsystem_project/
+Smart_traffic_system.py
